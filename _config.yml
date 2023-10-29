@@ -224,8 +224,6 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-theme: jekyll-text-theme
-
 # Site settings
 title: My Blog
 SEOTitle: 我的博客 | My Blog
