@@ -249,5 +249,5 @@ facebook_username:  暂无
 jianshu_username:   暂无
 #twitter_username: 暂无
 
-show_subscribe: false
+show_subscribe: 0
 license: false
